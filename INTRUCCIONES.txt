@@ -1,0 +1,28 @@
+------------------------------------
+INGLES => ESPAÑOL
+
+budget = presupuesto
+AmountDisplay = mostrar cantidad
+modal = ventana emergente
+expense = gatos 
+draft = borrador 
+empty = vacio
+expense list = lista de gastos
+expense details = detalles de gastos
+
+------------------------------------
+INSTALAR 
+
+npm i @headlessui/react
+npm i @heroicons/react
+
+npm i react-date-picker
+npm i react-calendar
+
+npm i react-swipeable-list
+(https://www.npmjs.com/package/react-swipeable-list)
+///// import PropTypes from 'prop-types';
+///// rarisimoooo eliminar
+///// !!! es necesario intalar => npm install prop-types
+
+------------------------------------
